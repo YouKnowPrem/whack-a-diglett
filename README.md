@@ -2,9 +2,9 @@
 A dynamic web app whack-a-mole game inspired by Pokemon.
 
 ## Creators
-Connor Ashlock (https://www.linkedin.com/in/connorashlock/)
-Matthew Chen (https://www.linkedin.com/in/matthew-chen10/)
-Evelyn Pei (https://www.linkedin.com/in/evelyn-pei/)
+- Connor Ashlock (https://www.linkedin.com/in/connorashlock/)
+- Matthew Chen (https://www.linkedin.com/in/matthew-chen10/)
+- Evelyn Pei (https://www.linkedin.com/in/evelyn-pei/)
 
 ## Technologies Used
 - React.js
